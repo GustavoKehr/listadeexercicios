@@ -1,0 +1,5 @@
+C:\Users\gucke\OneDrive\Área de Trabalho\SENAI\meudeusporfavor\obj\Debug\net6.0\meudeusporfavor.csproj.AssemblyReference.cache
+C:\Users\gucke\OneDrive\Área de Trabalho\SENAI\meudeusporfavor\obj\Debug\net6.0\meudeusporfavor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gucke\OneDrive\Área de Trabalho\SENAI\meudeusporfavor\obj\Debug\net6.0\meudeusporfavor.AssemblyInfoInputs.cache
+C:\Users\gucke\OneDrive\Área de Trabalho\SENAI\meudeusporfavor\obj\Debug\net6.0\meudeusporfavor.AssemblyInfo.cs
+C:\Users\gucke\OneDrive\Área de Trabalho\SENAI\meudeusporfavor\obj\Debug\net6.0\meudeusporfavor.csproj.CoreCompileInputs.cache
